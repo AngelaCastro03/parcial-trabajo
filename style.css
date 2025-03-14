@@ -4,14 +4,21 @@ body {
     padding: 0;
     background-color: #f4f4f4;
 }
-
+.button {
+    background-color: green; /* Cambia el color a verde */
+    color: #fff;
+    padding: 10px 20px;
+    margin: 0 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
 .container {
     width: 80%;
     margin: 20px auto;
     background-color: #fff;
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(216, 236, 178, 0.1);
     text-align: center;
 }
 
